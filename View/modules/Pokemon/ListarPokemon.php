@@ -28,8 +28,14 @@
                     <li class="list-group-item" style="color:#212121">Tipo: <?= $item['tipo'] ?></li>
 
                     <div class="card-body">
-                    <button type="button" class="btn btn-danger" a href="/pokemon/form?id=<?= $item['id'] ?>">Editar Pokemon</a></b> </button>
-                    <button type="button" class="btn btn-danger" a href="/pokemon/delete?id=<?= $item['id'] ?>">Deletar</a> </button>
+
+                    <button type="button" class="btn btn-dark">
+                        <a href="/pokemon/form?id=<?= $item['id'] ?>">Editar Pokemon</a> 
+                    </button>
+
+                    <button type="button" class="btn btn-dark">
+                        <a href="/pokemon/delete?id=<?= $item['id'] ?>">Deletar</a> 
+                    </button>
                 </div>
 
                 </ul>

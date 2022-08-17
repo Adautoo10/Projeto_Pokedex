@@ -1,15 +1,16 @@
 body{
-    background: linear-gradient(to right, rgb(15, 17, 187), rgb(0, 0, 0), rgb(80, 6, 199));
+    background: linear-gradient(to right, rgb(34,193,195), rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
 }
 
 .box{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 250px;
 }
 
 fieldset{
-    border: 5px solid red ;
+    border: 5px solid rgb(26, 99, 104) ;
 }
 
 label{
@@ -18,8 +19,8 @@ label{
 }
 
 legend{
-    color: red;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:  rgb(26, 99, 104);
+    font-family: 'Georgia', 'Georgia', 'Times, serif';
 }
 
 input{

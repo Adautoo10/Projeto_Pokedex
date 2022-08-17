@@ -11,6 +11,8 @@ body{
 
 fieldset{
     border: 5px solid rgb(26, 99, 104) ;
+    font-size: 25px;
+
 }
 
 label{
@@ -25,4 +27,5 @@ legend{
 
 input{
     border: solid;
+    font-size: 25px;
 }

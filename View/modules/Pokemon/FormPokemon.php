@@ -22,7 +22,7 @@
 
         <fieldset>
 
-            <legend>Cadastro de Pokémons</legend>
+            <legend>CADASTRO DE PÓKEMONS</legend>
 
             <input type="hidden" value="<?= $model->id ?>" name="id" />
 
@@ -37,7 +37,7 @@
 
             <br>
 
-            <button type="submit">Cadastrar</button>
+            <button type="submit"> CADASTRAR </button>
 
         </fieldset>
 

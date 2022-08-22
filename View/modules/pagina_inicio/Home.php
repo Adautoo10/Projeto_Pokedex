@@ -23,7 +23,8 @@
   <li><a href="*">INICIO</a></li>
   <li><a href="/pokemon/form">CADASTRAR POKÉMONS</a></li>
   <li><a href="/pokemon">LISTAGEM DE POKÉMONS</a></li>
-  <li><a href="contact.asp">SAIR</a></li>
+  <li><a href="*">INFORMAÇÕES</a></li>
+  <li style="float:left"><a class="active" href="*">SAIR</a></li>
   
 </ul>
 

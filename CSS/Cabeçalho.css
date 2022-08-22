@@ -1,0 +1,22 @@
+nav{
+    width: 100%;
+    display: flex;
+    position: fixed;
+    background-color: red;
+    z-index: 9;
+}
+
+nav a{
+    color: #fff;
+    margin: auto 20px auto 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav li{
+    float: left;
+    list-style: none;
+    margin-left: 10px;
+    font-size: 18px;
+    color: white;
+}

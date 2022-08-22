@@ -1,9 +1,12 @@
 body{ 
-    background: linear-gradient(to right , rgb(168, 7, 7), rgb(250, 250, 250));
+    background-image: url(/../../images/Pokemons3.jpg);
+    background-size: cover;
+    padding: 0;
+    margin: 0;
 }
-
 .card{
     width: 500px; 
+    background-color: black;
     margin:7px; 
     font-size: 16px; 
     display:inline-flex;
@@ -11,4 +14,8 @@ body{
     border: solid;
 }
 
+.list-group
+{
+background-color: rgb(185, 72, 72);
+}
 

@@ -22,7 +22,14 @@ switch($uri_parse)
         PokemonController::delete();
     break;
 
-    default:
-        echo "erro 404";
+  
+    case '/home':
+        include 'View/modules/pagina_inicio/home.php';
     break;
+
+    
+    default:
+         header("Location: /home");
+    break;
+
 }

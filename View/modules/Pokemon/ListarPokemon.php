@@ -9,6 +9,8 @@
 
     <link rel="stylesheet" href="/../../css/listarCSS.css">
 
+    
+
     <title>Listagem de Pokémons</title>
 </head>
 <body>

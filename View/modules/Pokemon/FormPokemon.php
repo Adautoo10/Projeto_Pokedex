@@ -5,20 +5,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cadastro de Pokémons</title>
-    <link rel="stylesheet" href="/../../css/FormCSS.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="/../../css/FormPokemon.css">
 
     <style>
         label, input { display: block;}
     </style>
+
+
    
 </head>
 <body>
 
-    <form action="/pokemon/save" method="post">
 
-    <br> <br> <br>
 
-<div class="box">
+<form action="/pokemon/save" method="post">
+
+ <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+
+<div class="container">
 
         <fieldset>
 
@@ -38,6 +44,8 @@
             <br>
 
             <button type="submit"> CADASTRAR </button>
+
+
 
         </fieldset>
 

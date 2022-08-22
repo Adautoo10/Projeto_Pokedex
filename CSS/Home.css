@@ -27,11 +27,10 @@ ul {
   li a:hover {
     background-color: #111;
   }
-
+  
   .active {
     background-color: #04AA6D;
   }
-
   li {
     border-right: 1px solid #bbb;
   }
@@ -39,3 +38,8 @@ ul {
   li:last-child {
     border-right: none;
   }
+
+  h1{
+    text-shadow: 2px 2px white;
+  }
+  

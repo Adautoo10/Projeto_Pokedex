@@ -51,7 +51,6 @@
 
 </div>
 
-  <br> <br>
   <div class="card" style="width: 18rem;" >
   <img src="https://mestrepokemon.com/wp-content/uploads/2020/03/Pok%C3%A9mon-Pidgey-Pok%C3%A9dex.png" class="card-img-top" alt="...">
   <div class="card-body">

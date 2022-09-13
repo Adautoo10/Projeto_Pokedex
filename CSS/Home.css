@@ -43,3 +43,12 @@ ul {
     text-shadow: 2px 2px white;
   }
   
+  .card{
+    width: 250px;
+    margin: 15px;
+    font-size: 16px;
+    display: inline-flex;
+    max-width: 300px;
+    border: solid;
+    box-shadow: 3px 3px black;
+}

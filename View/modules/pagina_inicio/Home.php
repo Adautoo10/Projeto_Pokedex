@@ -40,7 +40,7 @@
   <img src="https://sm.ign.com/ign_br/screenshot/default/025pikachu-os-anime-4_3pym.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Pikachu</h5>
-    <p class="card-text">Pikachu é um tipo de Pokémon elétrico: os bolsos em suas bochechas, identificado por discos vermelhos que decoram, são capazes de gerar choques elétricos de intensidade variável, chegando até o nível de poder de um raio. Eles também o usam para se defender.</p>
+    <p class="card-text">Pikachu é um tipo de Pokémon elétrico: os bolsos em suas bochechas, identificado por discos vermelhos que decoram, são capazes de gerar choques elétricos de intensidade variável, chegando até o nível de poder de um raio.</p>
   </div>
   <ul class="list-group list-group-flush"> 
     <li class="list-group-item">=====HABILIDADES=====</li>
@@ -68,6 +68,20 @@
 
 
 </div>
+
+
+<div class="card" style="width: 18rem;">
+  <img src="https://shop7.webmodule.prestashop.net/pokedoge/11857-large_default/mewtwo.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Mewtwo</h5>
+    <p class="card-text">Mewtwo é extraordinário com o poder Psíquico. Ele pode voar através do uso de telecinese, falar telepaticamente, e assumir o controle de um outro ser vivo pela mente.</p>
+  </div>
+  <ul class="list-group list-group-flush"> 
+    <li class="list-group-item">=====HABILIDADES=====</li>
+    <li class="list-group-item">Bola de Energia</li>
+    <li class="list-group-item">Controla Ataques</li>
+
+  </ul>
 
 
 </body>
